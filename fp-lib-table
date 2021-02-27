@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name BOBcad)(type KiCad)(uri ${KIPRJMOD}/project_libraries/project-footprints/BOBcad.pretty)(options "")(descr ""))
+)

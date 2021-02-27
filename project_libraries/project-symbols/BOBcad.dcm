@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS3231mini
+D MINI RTC MODULE
+$ENDCMP
+#
+$CMP HX711
+D Load Cell
+$ENDCMP
+#
+$CMP NCP380
+F https://datasheet.lcsc.com/szlcsc/1809111614_ON-Semiconductor-NCP380HSNAJAAT1G_C77573.pdf
+$ENDCMP
+#
+$CMP WIPY
+F https://docs.pycom.io/gitbook/assets/specsheets/Pycom_002_Specsheets_WiPy3.0_v2.pdf
+$ENDCMP
+#
+#End Doc Library
